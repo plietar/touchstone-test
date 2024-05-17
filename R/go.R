@@ -1,3 +1,2 @@
 #'@export
-go <- function() {
-}
+go <- function() { }

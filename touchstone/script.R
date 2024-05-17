@@ -2,7 +2,7 @@ touchstone::branch_install()
 
 touchstone::benchmark_run(
   bench = touchstone.test::go(),
-  n = 1
+  n = 5
 )
 
 touchstone::benchmark_analyze()
