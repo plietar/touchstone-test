@@ -1,2 +1,2 @@
 #'@export
-go <- function() { }
+go <- function() { Sys.sleep(5) }
